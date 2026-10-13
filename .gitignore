@@ -1,0 +1,11 @@
+.venv/
+.spyenv/
+venv/
+env/
+test.csv
+train.csv
+*.csv
+.ipynb_checkpoints/
+*.pkl
+*.joblib
+*.log
